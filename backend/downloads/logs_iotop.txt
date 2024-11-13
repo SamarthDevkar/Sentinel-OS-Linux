@@ -1,0 +1,1769 @@
+Total DISK READ:        17.94 M/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      13.41 M/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   3146 be/4 root        4.57 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4331 be/4 kali       13.37 M/s    0.00 B/s ?unavailable?  firefox-esr
+Total DISK READ:        30.41 M/s | Total DISK WRITE:        10.24 M/s
+Current DISK READ:      30.35 M/s | Current DISK WRITE:       4.13 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4322 be/4 root        0.00 B/s    6.79 M/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+    395 be/3 root        0.00 B/s    3.02 M/s ?unavailable?  [jbd2/sda1-8]
+   4617 be/4 kali      280.50 K/s  288.08 K/s ?unavailable?  firefox-esr [IndexedDB #1]
+   4454 be/4 kali        0.00 B/s  121.30 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4667 be/4 kali        0.00 B/s   15.16 K/s ?unavailable?  firefox-esr [StreamTrans #18]
+   4377 be/4 kali        0.00 B/s    3.79 K/s ?unavailable?  firefox-esr [glean.dispatche]
+   3146 be/4 root        6.70 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4331 be/4 kali       23.36 M/s    0.00 B/s ?unavailable?  firefox-esr
+   4614 be/4 root        3.79 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+   4693 be/4 kali       75.81 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 1 -isForBrowser -prefsLen 26889 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {8fd6bbac-40d6-4e6d-8e56-6505494d0a32} 4331 true tab
+Total DISK READ:        16.44 M/s | Total DISK WRITE:      1620.72 K/s
+Current DISK READ:      16.45 M/s | Current DISK WRITE:    1205.61 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s  999.86 K/s ?unavailable?  [jbd2/sda1-8]
+   4322 be/4 root        0.00 B/s  555.88 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4617 be/4 kali      516.17 K/s   28.88 K/s ?unavailable?  firefox-esr [IndexedDB #1]
+   4454 be/4 kali       10.83 K/s   21.66 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4666 be/4 kali        0.00 B/s   14.44 K/s ?unavailable?  firefox-esr [StreamTrans #17]
+   3146 be/4 root        4.06 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4331 be/4 kali        9.54 M/s    0.00 B/s ?unavailable?  firefox-esr
+   4639 be/4 kali      115.51 K/s    0.00 B/s ?unavailable?  firefox-esr [StreamTrans #10]
+   4672 be/4 kali      115.51 K/s    0.00 B/s ?unavailable?  firefox-esr [StreamTrans #22]
+   4614 be/4 root        3.61 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+   4693 be/4 kali     1967.24 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 1 -isForBrowser -prefsLen 26889 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {8fd6bbac-40d6-4e6d-8e56-6505494d0a32} 4331 true tab
+   6002 be/4 kali       57.75 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 1 -isForBrowser -prefsLen 26889 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {8fd6bbac-40d6-4e6d-8e56-6505494d0a32} 4331 true tab [StreamTrans #2]
+   6003 be/4 kali      115.51 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 1 -isForBrowser -prefsLen 26889 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {8fd6bbac-40d6-4e6d-8e56-6505494d0a32} 4331 true tab [StreamTrans #3]
+Total DISK READ:         8.27 M/s | Total DISK WRITE:      1854.16 K/s
+Current DISK READ:       9.17 M/s | Current DISK WRITE:    1910.34 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s 1479.58 K/s ?unavailable?  [jbd2/sda1-8]
+   4454 be/4 kali        0.00 B/s  213.51 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4617 be/4 kali      689.22 K/s   71.17 K/s ?unavailable?  firefox-esr [IndexedDB #1]
+    453 be/4 root        0.00 B/s   48.70 K/s ?unavailable?  systemd-journald
+   4666 be/4 kali        0.00 B/s   14.98 K/s ?unavailable?  firefox-esr [StreamTrans #17]
+   4672 be/4 kali        0.00 B/s   14.98 K/s ?unavailable?  firefox-esr [StreamTrans #22]
+   4322 be/4 root        0.00 B/s    7.49 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4399 be/4 kali        0.00 B/s    3.75 K/s ?unavailable?  firefox-esr [Backgro~Pool #1]
+   3146 be/4 root        7.22 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4468 be/4 kali        3.75 K/s    0.00 B/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+   4639 be/4 kali      119.86 K/s    0.00 B/s ?unavailable?  firefox-esr [StreamTrans #10]
+   4645 be/4 kali       97.39 K/s    0.00 B/s ?unavailable?  firefox-esr [StreamTrans #15]
+   4693 be/4 kali      119.86 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 1 -isForBrowser -prefsLen 26889 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {8fd6bbac-40d6-4e6d-8e56-6505494d0a32} 4331 true tab
+   6327 be/4 kali       41.20 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 1 -isForBrowser -prefsLen 26889 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {8fd6bbac-40d6-4e6d-8e56-6505494d0a32} 4331 true tab [StreamTrans #4]
+Total DISK READ:         6.32 M/s | Total DISK WRITE:         3.74 K/s
+Current DISK READ:       6.26 M/s | Current DISK WRITE:       7.44 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4468 be/4 kali        0.00 B/s    3.74 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+   3146 be/4 root        6.32 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   6382 be/4 root        3.74 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         6.90 M/s | Total DISK WRITE:      1997.42 K/s
+Current DISK READ:       6.88 M/s | Current DISK WRITE:       2.18 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s 1507.56 K/s ?unavailable?  [jbd2/sda1-8]
+   4617 be/4 kali        0.00 B/s  398.72 K/s ?unavailable?  firefox-esr [IndexedDB #1]
+   4454 be/4 kali       18.99 K/s   49.37 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s   41.77 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   3146 be/4 root        6.88 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   6382 be/4 root        3.80 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         7.69 M/s | Total DISK WRITE:        30.10 K/s
+Current DISK READ:       7.83 M/s | Current DISK WRITE:      13.96 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    453 be/4 root        0.00 B/s   22.58 K/s ?unavailable?  systemd-journald
+   3179 be/3 root        0.00 B/s    7.53 K/s ?unavailable?  auditd
+   3146 be/4 root        7.69 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   6382 be/4 root        3.76 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         8.53 M/s | Total DISK WRITE:        15.02 M/s
+Current DISK READ:       8.45 M/s | Current DISK WRITE:      15.98 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   6757 be/4 kali        0.00 B/s   11.29 M/s ?unavailable?  firefox-esr [Classif~date #1]
+    395 be/3 root        0.00 B/s    3.72 M/s ?unavailable?  [jbd2/sda1-8]
+   4645 be/4 kali        0.00 B/s   14.86 K/s ?unavailable?  firefox-esr [StreamTrans #15]
+   3146 be/4 root        8.53 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   6382 be/4 root        7.43 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         7.71 M/s | Total DISK WRITE:       139.36 K/s
+Current DISK READ:       7.75 M/s | Current DISK WRITE:      10.89 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4322 be/4 root        0.00 B/s  139.36 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   3146 be/4 root        7.59 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4331 be/4 kali      120.53 K/s    0.00 B/s ?unavailable?  firefox-esr
+   6382 be/4 root        3.77 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.95 M/s | Total DISK WRITE:        16.73 M/s
+Current DISK READ:       3.90 M/s | Current DISK WRITE:       3.86 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   6757 be/4 kali        0.00 B/s   13.37 M/s ?unavailable?  firefox-esr [Classif~date #1]
+    395 be/3 root        0.00 B/s    2.78 M/s ?unavailable?  [jbd2/sda1-8]
+   4322 be/4 root        0.00 B/s  245.43 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   3146 be/4 root        3.72 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4331 be/4 kali      237.99 K/s    0.00 B/s ?unavailable?  firefox-esr
+   6382 be/4 root        3.72 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         7.30 M/s | Total DISK WRITE:       513.41 K/s
+Current DISK READ:       7.31 M/s | Current DISK WRITE:     770.12 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s  498.09 K/s ?unavailable?  [jbd2/sda1-8]
+   4667 be/4 kali        0.00 B/s   15.33 K/s ?unavailable?  firefox-esr [StreamTrans #18]
+   3146 be/4 root        7.30 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   6382 be/4 root        3.83 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         7.29 M/s | Total DISK WRITE:        30.66 K/s
+Current DISK READ:       7.30 M/s | Current DISK WRITE:       7.66 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4468 be/4 kali       99.64 K/s   30.66 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+   3146 be/4 root        7.07 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4331 be/4 kali      122.64 K/s    0.00 B/s ?unavailable?  firefox-esr
+Total DISK READ:         6.24 M/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       6.22 M/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   3146 be/4 root        6.23 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   7305 be/4 root        3.81 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         5.09 M/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       5.10 M/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   3146 be/4 root        5.09 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   7305 be/4 root        3.63 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         4.73 M/s | Total DISK WRITE:         6.37 M/s
+Current DISK READ:       4.71 M/s | Current DISK WRITE:       6.49 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    6.37 M/s ?unavailable?  [jbd2/sda1-8]
+   3146 be/4 root        4.01 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4331 be/4 kali      731.62 K/s    0.00 B/s ?unavailable?  firefox-esr
+   7305 be/4 root        3.81 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.40 M/s | Total DISK WRITE:       335.32 K/s
+Current DISK READ:       3.45 M/s | Current DISK WRITE:     514.41 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s  320.07 K/s ?unavailable?  [jbd2/sda1-8]
+   4667 be/4 kali        0.00 B/s   15.24 K/s ?unavailable?  firefox-esr [StreamTrans #18]
+   3146 be/4 root        3.40 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   7305 be/4 root        3.81 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         5.69 M/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       5.65 M/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   3146 be/4 root        5.57 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4693 be/4 kali      119.13 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 1 -isForBrowser -prefsLen 26889 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {8fd6bbac-40d6-4e6d-8e56-6505494d0a32} 4331 true tab
+   7305 be/4 root        3.72 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         5.47 M/s | Total DISK WRITE:         2.84 M/s
+Current DISK READ:       5.49 M/s | Current DISK WRITE:       2.84 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    2.24 M/s ?unavailable?  [jbd2/sda1-8]
+   5234 be/4 kali       31.02 K/s  469.17 K/s ?unavailable?  firefox-esr [mozStorage #1]
+   4569 be/4 kali        0.00 B/s  127.96 K/s ?unavailable?  firefox-esr [Permission]
+   4322 be/4 root        0.00 B/s   19.39 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   3146 be/4 root        5.20 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4693 be/4 kali      248.16 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 1 -isForBrowser -prefsLen 26889 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {8fd6bbac-40d6-4e6d-8e56-6505494d0a32} 4331 true tab
+   7305 be/4 root        3.88 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.27 M/s | Total DISK WRITE:       739.60 K/s
+Current DISK READ:       3.28 M/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   5234 be/4 kali        0.00 B/s  468.66 K/s ?unavailable?  firefox-esr [mozStorage #1]
+   8555 be/4 kali        0.00 B/s  175.75 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4322 be/4 root        0.00 B/s   51.26 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4454 be/4 kali        0.00 B/s   43.94 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   3146 be/4 root        2.96 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4331 be/4 kali      117.16 K/s    0.00 B/s ?unavailable?  firefox-esr
+   5780 be/4 kali      194.05 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 4 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {2840a1aa-3789-416a-8977-48150cdb37cd} 4331 true tab
+   7305 be/4 root        3.66 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         4.88 M/s | Total DISK WRITE:      1244.36 K/s
+Current DISK READ:       4.85 M/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s  623.96 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s  549.09 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+    453 be/4 root        0.00 B/s   71.31 K/s ?unavailable?  systemd-journald
+   3146 be/4 root        4.14 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   5780 be/4 kali      734.49 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 4 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {2840a1aa-3789-416a-8977-48150cdb37cd} 4331 true tab
+   5888 be/4 kali       17.83 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 4 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {2840a1aa-3789-416a-8977-48150cdb37cd} 4331 true tab [Backgro~Pool #1]
+   7305 be/4 root        3.57 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         5.88 M/s | Total DISK WRITE:      1171.63 K/s
+Current DISK READ:       5.88 M/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s  742.16 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s  429.47 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   3146 be/4 root        2.95 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4535 be/4 kali      410.64 K/s    0.00 B/s ?unavailable?  firefox-esr [CanvasRenderer]
+   5780 be/4 kali     1974.06 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 4 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {2840a1aa-3789-416a-8977-48150cdb37cd} 4331 true tab
+   5803 be/4 kali      606.53 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 5 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {5f2a80c5-de76-4beb-a0ba-5fd5cbe348c2} 4331 true tab
+   5852 be/4 kali        3.77 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 5 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {5f2a80c5-de76-4beb-a0ba-5fd5cbe348c2} 4331 true tab [HTML5 Parser]
+Total DISK READ:         3.82 M/s | Total DISK WRITE:         5.64 M/s
+Current DISK READ:       3.88 M/s | Current DISK WRITE:       6.23 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    5.31 M/s ?unavailable?  [jbd2/sda1-8]
+   4454 be/4 kali        0.00 B/s  146.29 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+    453 be/4 root        0.00 B/s  123.79 K/s ?unavailable?  systemd-journald
+   4322 be/4 root        0.00 B/s   67.52 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   3146 be/4 root        3.28 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4535 be/4 kali      431.38 K/s    0.00 B/s ?unavailable?  firefox-esr [CanvasRenderer]
+   4693 be/4 kali      120.04 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 1 -isForBrowser -prefsLen 26889 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {8fd6bbac-40d6-4e6d-8e56-6505494d0a32} 4331 true tab
+Total DISK READ:         2.18 M/s | Total DISK WRITE:      1067.34 K/s
+Current DISK READ:       3.06 M/s | Current DISK WRITE:     795.92 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s  359.45 K/s ?unavailable?  [jbd2/sda1-8]
+   5234 be/4 kali        0.00 B/s  322.77 K/s ?unavailable?  firefox-esr [mozStorage #1]
+   4454 be/4 kali       73.36 K/s  139.38 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4569 be/4 kali        0.00 B/s  121.04 K/s ?unavailable?  firefox-esr [Permission]
+    453 be/4 root        0.00 B/s   73.36 K/s ?unavailable?  systemd-journald
+   4322 be/4 root        0.00 B/s   33.01 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4645 be/4 kali        0.00 B/s   14.67 K/s ?unavailable?  firefox-esr [StreamTrans #15]
+   4607 be/4 kali       95.36 K/s    3.67 K/s ?unavailable?  firefox-esr [QuotaManager IO]
+   4295 be/4 root       11.00 K/s    0.00 B/s ?unavailable?  tshark -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -T fields -e frame.number -e frame.time -e ip.src -e ip.dst -e tcp.srcport -e tcp.dstport -e udp.srcport -e udp.dstport -e frame.len -e frame.protocols -E header y -E separator ,
+   4331 be/4 kali      498.83 K/s    0.00 B/s ?unavailable?  firefox-esr
+   4397 be/4 kali      605.20 K/s    0.00 B/s ?unavailable?  firefox-esr [Socket Thread]
+   4693 be/4 kali      234.74 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 1 -isForBrowser -prefsLen 26889 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {8fd6bbac-40d6-4e6d-8e56-6505494d0a32} 4331 true tab
+   5780 be/4 kali      520.83 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 4 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {2840a1aa-3789-416a-8977-48150cdb37cd} 4331 true tab
+   5886 be/4 kali      194.40 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 6 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {1092ad54-4e03-43db-96bb-d69622eedf64} 4331 true tab
+Total DISK READ:      1755.04 K/s | Total DISK WRITE:      1480.08 K/s
+Current DISK READ:    1704.12 K/s | Current DISK WRITE:     166.34 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali       23.76 K/s  835.09 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s  519.38 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+    395 be/3 root        0.00 B/s   37.34 K/s ?unavailable?  [jbd2/sda1-8]
+   4468 be/4 kali        0.00 B/s   30.55 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+   5234 be/4 kali        0.00 B/s   27.16 K/s ?unavailable?  firefox-esr [mozStorage #1]
+    453 be/4 root        0.00 B/s   16.97 K/s ?unavailable?  systemd-journald
+   4639 be/4 kali        0.00 B/s   13.58 K/s ?unavailable?  firefox-esr [StreamTrans #10]
+   4331 be/4 kali       61.10 K/s    0.00 B/s ?unavailable?  firefox-esr
+   4397 be/4 kali      108.63 K/s    0.00 B/s ?unavailable?  firefox-esr [Socket Thread]
+   5780 be/4 kali      149.37 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 4 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {2840a1aa-3789-416a-8977-48150cdb37cd} 4331 true tab
+   5886 be/4 kali     1412.18 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 6 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {1092ad54-4e03-43db-96bb-d69622eedf64} 4331 true tab
+Total DISK READ:      1457.39 K/s | Total DISK WRITE:         2.58 M/s
+Current DISK READ:       2.88 M/s | Current DISK WRITE:      40.41 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        0.00 B/s  835.42 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4454 be/4 kali       73.61 K/s  736.05 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s  511.56 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+    395 be/3 root        0.00 B/s  264.98 K/s ?unavailable?  [jbd2/sda1-8]
+    453 be/4 root        0.00 B/s  147.21 K/s ?unavailable?  systemd-journald
+   5234 be/4 kali       66.24 K/s   69.93 K/s ?unavailable?  firefox-esr [mozStorage #1]
+   4667 be/4 kali        0.00 B/s   33.12 K/s ?unavailable?  firefox-esr [StreamTrans #18]
+   4639 be/4 kali        0.00 B/s   22.08 K/s ?unavailable?  firefox-esr [StreamTrans #10]
+   4666 be/4 kali        0.00 B/s   14.72 K/s ?unavailable?  firefox-esr [StreamTrans #17]
+   4468 be/4 kali        0.00 B/s    7.36 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+   4607 be/4 kali        0.00 B/s    3.68 K/s ?unavailable?  firefox-esr [QuotaManager IO]
+   1856 be/4 kali       40.48 K/s    0.00 B/s ?unavailable?  gvfs-afc-volume-monitor
+   4209 be/4 root       69.93 K/s    0.00 B/s ?unavailable?  sadc 1 -Z -S A_NULL A_MEMORY
+   4296 be/4 root       55.20 K/s    0.00 B/s ?unavailable?  bash ./Network.sh 34.204.53.222
+   4331 be/4 kali      739.73 K/s    0.00 B/s ?unavailable?  firefox-esr
+   4398 be/4 kali       92.01 K/s    0.00 B/s ?unavailable?  firefox-esr [IPDL Background]
+   5780 be/4 kali        7.36 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 4 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {2840a1aa-3789-416a-8977-48150cdb37cd} 4331 true tab
+   5886 be/4 kali      206.09 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 6 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {1092ad54-4e03-43db-96bb-d69622eedf64} 4331 true tab
+   6944 be/4 root       11.04 K/s    0.00 B/s ?unavailable?  sadc 1 -Z -S A_NULL A_IO A_QUEUE A_DISK
+   8560 be/4 kali       95.69 K/s    0.00 B/s ?unavailable?  firefox-esr [DNS Resolver #5]
+Total DISK READ:      1470.31 K/s | Total DISK WRITE:      1625.23 K/s
+Current DISK READ:       4.63 M/s | Current DISK WRITE:       2.88 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s  529.54 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+    395 be/3 root        0.00 B/s  388.70 K/s ?unavailable?  [jbd2/sda1-8]
+   8555 be/4 kali        0.00 B/s  185.90 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4322 be/4 root        0.00 B/s  138.02 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4607 be/4 kali       87.32 K/s   95.77 K/s ?unavailable?  firefox-esr [QuotaManager IO]
+   8686 be/4 kali        0.00 B/s   90.13 K/s ?unavailable?  firefox-esr [DOMCacheThread]
+   5423 be/4 kali        0.00 B/s   87.32 K/s ?unavailable?  firefox-esr [LS Thread]
+    453 be/4 root        0.00 B/s   56.33 K/s ?unavailable?  systemd-journald
+   4667 be/4 kali        0.00 B/s   22.53 K/s ?unavailable?  firefox-esr [StreamTrans #18]
+   5702 be/4 kali        0.00 B/s   11.27 K/s ?unavailable?  firefox-esr [IndexedDB #6]
+   4645 be/4 kali        0.00 B/s    8.45 K/s ?unavailable?  firefox-esr [StreamTrans #15]
+   4672 be/4 kali       90.13 K/s    5.63 K/s ?unavailable?  firefox-esr [StreamTrans #22]
+   4639 be/4 kali        0.00 B/s    2.82 K/s ?unavailable?  firefox-esr [StreamTrans #10]
+   4666 be/4 kali        0.00 B/s    2.82 K/s ?unavailable?  firefox-esr [StreamTrans #17]
+    308 be/4 root        2.82 K/s    0.00 B/s ?unavailable?  [kworker/u256:28-flush-8:0]
+   1856 be/4 kali        2.82 K/s    0.00 B/s ?unavailable?  gvfs-afc-volume-monitor
+   4331 be/4 kali     1202.72 K/s    0.00 B/s ?unavailable?  firefox-esr
+   5147 be/4 root       81.68 K/s    0.00 B/s ?unavailable?  pcscd --foreground --auto-exit
+   5986 be/4 root        2.82 K/s    0.00 B/s ?unavailable?  python3 /usr/sbin/iotop -o -b
+Total DISK READ:         6.03 M/s | Total DISK WRITE:         2.63 M/s
+Current DISK READ:       5.96 M/s | Current DISK WRITE:       3.03 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s 1008.37 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+    395 be/3 root        0.00 B/s  756.28 K/s ?unavailable?  [jbd2/sda1-8]
+   8555 be/4 kali        0.00 B/s  529.76 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4322 be/4 root        0.00 B/s  160.75 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   5423 be/4 kali        0.00 B/s  120.57 K/s ?unavailable?  firefox-esr [LS Thread]
+    453 be/4 root        0.00 B/s   65.76 K/s ?unavailable?  systemd-journald
+   4468 be/4 kali       51.15 K/s   29.23 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+   4667 be/4 kali        0.00 B/s   14.61 K/s ?unavailable?  firefox-esr [StreamTrans #18]
+   4377 be/4 kali        0.00 B/s    3.65 K/s ?unavailable?  firefox-esr [glean.dispatche]
+   4399 be/4 kali        0.00 B/s    3.65 K/s ?unavailable?  firefox-esr [Backgro~Pool #1]
+   1844 be/4 kali      602.83 K/s    0.00 B/s ?unavailable?  gvfs-udisks2-volume-monitor
+   3146 be/4 root        4.79 M/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   4331 be/4 kali      189.98 K/s    0.00 B/s ?unavailable?  firefox-esr
+   5780 be/4 kali      423.81 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 4 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {2840a1aa-3789-416a-8977-48150cdb37cd} 4331 true tab
+Total DISK READ:       279.37 K/s | Total DISK WRITE:       666.76 K/s
+Current DISK READ:     342.69 K/s | Current DISK WRITE:     569.91 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s  379.94 K/s ?unavailable?  [jbd2/sda1-8]
+   8555 be/4 kali        0.00 B/s  178.80 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4454 be/4 kali        0.00 B/s   44.70 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   5423 be/4 kali        0.00 B/s   22.35 K/s ?unavailable?  firefox-esr [LS Thread]
+   4322 be/4 root        0.00 B/s   18.62 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4666 be/4 kali        0.00 B/s   14.90 K/s ?unavailable?  firefox-esr [StreamTrans #17]
+   5702 be/4 kali        0.00 B/s    7.45 K/s ?unavailable?  firefox-esr [IndexedDB #6]
+    479 be/4 root        3.72 K/s    0.00 B/s ?unavailable?  vmware-vmblock-fuse /run/vmblock-fuse -o rw,subtype=vmware-vmblock,default_permissions,allow_other,dev,suid
+   3146 be/4 root      260.75 K/s    0.00 B/s ?unavailable?  inotifywait -m -r -e create,delete,modify,move,move_self,moved_to,attrib --format %e %w%f /
+   3147 be/4 root       14.90 K/s    0.00 B/s ?unavailable?  bash ./File_monitoring.sh 34.204.53.222
+Total DISK READ:         3.80 K/s | Total DISK WRITE:       110.31 K/s
+Current DISK READ:       3.80 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        3.80 K/s   87.49 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s   22.82 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       260.18 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1586.04 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4569 be/4 kali        0.00 B/s  117.62 K/s ?unavailable?  firefox-esr [Permission]
+    395 be/3 root        0.00 B/s  106.92 K/s ?unavailable?  [jbd2/sda1-8]
+   4322 be/4 root        0.00 B/s   24.95 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4454 be/4 kali        0.00 B/s   10.69 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        93.38 K/s
+Current DISK READ:     312.45 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        0.00 B/s   61.05 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4454 be/4 kali        0.00 B/s   21.55 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s   10.77 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:        85.31 K/s | Total DISK WRITE:       263.03 K/s
+Current DISK READ:      95.97 K/s | Current DISK WRITE:     433.65 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s  142.18 K/s ?unavailable?  [jbd2/sda1-8]
+   4454 be/4 kali        0.00 B/s   63.98 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   5423 be/4 kali        0.00 B/s   39.10 K/s ?unavailable?  firefox-esr [LS Thread]
+   4322 be/4 root        0.00 B/s   17.77 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4331 be/4 kali       85.31 K/s    0.00 B/s ?unavailable?  firefox-esr
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       398.44 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     136.40 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        0.00 B/s  294.34 K/s ?unavailable?  firefox-esr [mozStorage #7]
+    395 be/3 root        0.00 B/s   39.48 K/s ?unavailable?  [jbd2/sda1-8]
+   4454 be/4 kali        0.00 B/s   28.72 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s   17.95 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   5423 be/4 kali        0.00 B/s   17.95 K/s ?unavailable?  firefox-esr [LS Thread]
+Total DISK READ:         3.80 K/s | Total DISK WRITE:       140.53 K/s
+Current DISK READ:     186.10 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        0.00 B/s  121.54 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4454 be/4 kali        0.00 B/s   11.39 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s    7.60 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   6416 be/4 root        3.80 K/s    0.00 B/s ?unavailable?  bash ./memmapshlib.sh 34.204.53.222
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        87.02 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   87.02 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.17 K/s
+Current DISK READ:      64.50 K/s | Current DISK WRITE:       3.58 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4322 be/4 root        0.00 B/s    3.58 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4377 be/4 kali        0.00 B/s    3.58 K/s ?unavailable?  firefox-esr [glean.dispatche]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       286.42 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     259.68 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   95.47 K/s ?unavailable?  [jbd2/sda1-8]
+   4454 be/4 kali        0.00 B/s   80.20 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s   76.38 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   5423 be/4 kali        0.00 B/s   34.37 K/s ?unavailable?  firefox-esr [LS Thread]
+Total DISK READ:       158.01 K/s | Total DISK WRITE:        29.40 K/s
+Current DISK READ:     158.01 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4468 be/4 kali        0.00 B/s   29.40 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+   4295 be/4 root      158.01 K/s    0.00 B/s ?unavailable?  tshark -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -T fields -e frame.number -e frame.time -e ip.src -e ip.dst -e tcp.srcport -e tcp.dstport -e udp.srcport -e udp.dstport -e frame.len -e frame.protocols -E header y -E separator ,
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.59 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4322 be/4 root        0.00 B/s    3.59 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        32.60 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   32.60 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       140.41 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        0.00 B/s  114.55 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4322 be/4 root        0.00 B/s   18.48 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4454 be/4 kali        0.00 B/s    7.39 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        31.73 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     119.86 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   28.20 K/s ?unavailable?  [jbd2/sda1-8]
+   4322 be/4 root        0.00 B/s    3.53 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         3.65 K/s | Total DISK WRITE:         3.65 K/s
+Current DISK READ:       3.65 K/s | Current DISK WRITE:       3.65 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4468 be/4 kali        3.65 K/s    3.65 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+Total DISK READ:         2.78 M/s | Total DISK WRITE:      1346.50 K/s
+Current DISK READ:       2.84 M/s | Current DISK WRITE:       2.10 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   5234 be/4 kali        0.00 B/s  758.94 K/s ?unavailable?  firefox-esr [mozStorage #1]
+   4322 be/4 root        0.00 B/s  216.84 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4454 be/4 kali        2.73 M/s  202.85 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4569 be/4 kali        0.00 B/s  115.41 K/s ?unavailable?  firefox-esr [Permission]
+    395 be/3 root        0.00 B/s   24.48 K/s ?unavailable?  [jbd2/sda1-8]
+   5423 be/4 kali        0.00 B/s   24.48 K/s ?unavailable?  firefox-esr [LS Thread]
+   4607 be/4 kali       17.49 K/s    3.50 K/s ?unavailable?  firefox-esr [QuotaManager IO]
+   8596 be/4 kali       31.48 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 8 -isForBrowser -prefsLen 28999 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {09c8a30c-8252-4680-b735-823bba7932c2} 4331 true tab
+Total DISK READ:       508.54 K/s | Total DISK WRITE:      1282.40 K/s
+Current DISK READ:    1131.32 K/s | Current DISK WRITE:      18.43 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali      287.44 K/s  799.66 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s  412.73 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+    453 be/4 root        0.00 B/s   70.02 K/s ?unavailable?  systemd-journald
+   4295 be/4 root       29.48 K/s    0.00 B/s ?unavailable?  tshark -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -T fields -e frame.number -e frame.time -e ip.src -e ip.dst -e tcp.srcport -e tcp.dstport -e udp.srcport -e udp.dstport -e frame.len -e frame.protocols -E header y -E separator ,
+   8596 be/4 kali      191.62 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 8 -isForBrowser -prefsLen 28999 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {09c8a30c-8252-4680-b735-823bba7932c2} 4331 true tab
+Total DISK READ:       557.88 K/s | Total DISK WRITE:        88.83 K/s
+Current DISK READ:     586.31 K/s | Current DISK WRITE:       3.55 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4468 be/4 kali        3.55 K/s   85.28 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+   4322 be/4 root        0.00 B/s    3.55 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4331 be/4 kali      550.78 K/s    0.00 B/s ?unavailable?  firefox-esr
+   8610 be/4 kali        3.55 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 8 -isForBrowser -prefsLen 28999 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {09c8a30c-8252-4680-b735-823bba7932c2} 4331 true tab [TaskCon~ller #3]
+Total DISK READ:        30.72 K/s | Total DISK WRITE:         3.84 K/s
+Current DISK READ:      30.72 K/s | Current DISK WRITE:     119.03 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s    3.84 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   8596 be/4 kali       30.72 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 8 -isForBrowser -prefsLen 28999 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {09c8a30c-8252-4680-b735-823bba7932c2} 4331 true tab
+Total DISK READ:       204.32 K/s | Total DISK WRITE:       215.46 K/s
+Current DISK READ:     204.32 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        0.00 B/s  185.74 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4454 be/4 kali      104.02 K/s   26.00 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s    3.71 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   3383 be/4 root       92.87 K/s    0.00 B/s ?unavailable?  cat /var/log/audit/audit.log
+   4295 be/4 root        3.71 K/s    0.00 B/s ?unavailable?  tshark -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -T fields -e frame.number -e frame.time -e ip.src -e ip.dst -e tcp.srcport -e tcp.dstport -e udp.srcport -e udp.dstport -e frame.len -e frame.protocols -E header y -E separator ,
+   8596 be/4 kali        3.71 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 8 -isForBrowser -prefsLen 28999 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {09c8a30c-8252-4680-b735-823bba7932c2} 4331 true tab
+Total DISK READ:       313.43 K/s | Total DISK WRITE:       361.94 K/s
+Current DISK READ:     313.43 K/s | Current DISK WRITE:     690.30 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s  261.19 K/s ?unavailable?  [jbd2/sda1-8]
+   8555 be/4 kali        0.00 B/s   59.70 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4454 be/4 kali      313.43 K/s   33.58 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s    7.46 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         3.69 K/s | Total DISK WRITE:       314.00 K/s
+Current DISK READ:       3.69 K/s | Current DISK WRITE:     284.45 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   5234 be/4 kali        0.00 B/s  132.99 K/s ?unavailable?  firefox-esr [mozStorage #1]
+   4454 be/4 kali        0.00 B/s  110.83 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s   51.72 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+    395 be/3 root        0.00 B/s   18.47 K/s ?unavailable?  [jbd2/sda1-8]
+   8596 be/4 kali        3.69 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 8 -isForBrowser -prefsLen 28999 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {09c8a30c-8252-4680-b735-823bba7932c2} 4331 true tab
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        43.84 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.65 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4468 be/4 kali        0.00 B/s   32.88 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+   4322 be/4 root        0.00 B/s    7.31 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4377 be/4 kali        0.00 B/s    3.65 K/s ?unavailable?  firefox-esr [glean.dispatche]
+Total DISK READ:      1338.52 K/s | Total DISK WRITE:       349.67 K/s
+Current DISK READ:    1338.52 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali     1334.76 K/s  150.40 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s  139.12 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   8555 be/4 kali        0.00 B/s   60.16 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   8562 be/4 kali        3.76 K/s    0.00 B/s ?unavailable?  firefox-esr [SSL Cert #3]
+Total DISK READ:       224.96 K/s | Total DISK WRITE:      1777.52 K/s
+Current DISK READ:     224.96 K/s | Current DISK WRITE:     269.21 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali      224.96 K/s  899.82 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s  756.00 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+    395 be/3 root        0.00 B/s   92.19 K/s ?unavailable?  [jbd2/sda1-8]
+   5423 be/4 kali        0.00 B/s   29.50 K/s ?unavailable?  firefox-esr [LS Thread]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       812.16 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     163.92 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4322 be/4 root        0.00 B/s  283.14 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   8555 be/4 kali        0.00 B/s  264.51 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4454 be/4 kali        0.00 B/s  230.98 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   5423 be/4 kali        0.00 B/s   18.63 K/s ?unavailable?  firefox-esr [LS Thread]
+    395 be/3 root        0.00 B/s   14.90 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:       265.02 K/s | Total DISK WRITE:       628.99 K/s
+Current DISK READ:     353.36 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s  318.03 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s  310.96 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   8635 be/4 kali      265.02 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 9 -isForBrowser -prefsLen 28999 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {294089b7-bf55-433d-a5a8-7a3f0597a20b} 4331 true tab
+Total DISK READ:       103.28 K/s | Total DISK WRITE:        59.02 K/s
+Current DISK READ:     103.28 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4322 be/4 root        0.00 B/s   44.26 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+    453 be/4 root        0.00 B/s   14.75 K/s ?unavailable?  systemd-journald
+   8596 be/4 kali        3.69 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 8 -isForBrowser -prefsLen 28999 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {09c8a30c-8252-4680-b735-823bba7932c2} 4331 true tab
+  23714 be/4 kali       99.59 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 12 -isForBrowser -prefsLen 29105 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {0192c926-6208-4481-8b83-37959f646d38} 4331 true tab
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.59 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4322 be/4 root        0.00 B/s    3.59 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        66.19 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     235.35 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   5423 be/4 kali        0.00 B/s   36.77 K/s ?unavailable?  firefox-esr [LS Thread]
+    395 be/3 root        0.00 B/s   22.06 K/s ?unavailable?  [jbd2/sda1-8]
+   4454 be/4 kali        0.00 B/s    7.35 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        83.41 K/s
+Current DISK READ:       3.79 K/s | Current DISK WRITE:       3.77 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   5423 be/4 kali        0.00 B/s   60.66 K/s ?unavailable?  firefox-esr [LS Thread]
+    395 be/3 root        0.00 B/s   15.17 K/s ?unavailable?  [jbd2/sda1-8]
+   4322 be/4 root        0.00 B/s    3.79 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4607 be/4 kali        0.00 B/s    3.79 K/s ?unavailable?  firefox-esr [QuotaManager IO]
+Total DISK READ:         3.80 K/s | Total DISK WRITE:         7.61 K/s
+Current DISK READ:       3.80 K/s | Current DISK WRITE:     167.37 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    7.61 K/s ?unavailable?  [jbd2/sda1-8]
+   3147 be/4 root        3.80 K/s    0.00 B/s ?unavailable?  bash ./File_monitoring.sh 34.204.53.222
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.63 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4322 be/4 root        0.00 B/s    3.63 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:       116.66 K/s | Total DISK WRITE:         3.65 K/s
+Current DISK READ:     349.99 K/s | Current DISK WRITE:      40.10 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    3.65 K/s ?unavailable?  [jbd2/sda1-8]
+   4331 be/4 kali      116.66 K/s    0.00 B/s ?unavailable?  firefox-esr
+Total DISK READ:       213.18 K/s | Total DISK WRITE:        73.28 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      86.60 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4468 be/4 kali        0.00 B/s   29.98 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+    395 be/3 root        0.00 B/s   13.32 K/s ?unavailable?  [jbd2/sda1-8]
+  26309 be/4 kali        0.00 B/s   13.32 K/s ?unavailable?  firefox-esr [StreamTrans #23]
+   4454 be/4 kali        0.00 B/s    9.99 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   4322 be/4 root        0.00 B/s    6.66 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4331 be/4 kali      213.18 K/s    0.00 B/s ?unavailable?  firefox-esr
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.66 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.66 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4468 be/4 kali        0.00 B/s    3.66 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:        15.08 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      15.08 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8596 be/4 kali       15.08 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 8 -isForBrowser -prefsLen 28999 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {09c8a30c-8252-4680-b735-823bba7932c2} 4331 true tab
+Total DISK READ:        98.41 K/s | Total DISK WRITE:        22.71 K/s
+Current DISK READ:     124.90 K/s | Current DISK WRITE:       2.75 M/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4322 be/4 root        0.00 B/s   11.35 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4454 be/4 kali        0.00 B/s   11.35 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   2043 be/4 kali       98.41 K/s    0.00 B/s ?unavailable?  gnome-shell
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        70.71 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      81.31 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   70.71 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       7.39 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:       456.10 K/s | Total DISK WRITE:       199.09 K/s
+Current DISK READ:     915.82 K/s | Current DISK WRITE:      86.88 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    453 be/4 root        0.00 B/s  141.17 K/s ?unavailable?  systemd-journald
+   5423 be/4 kali        0.00 B/s   25.34 K/s ?unavailable?  firefox-esr [LS Thread]
+    395 be/3 root        0.00 B/s   18.10 K/s ?unavailable?  [jbd2/sda1-8]
+   4454 be/4 kali        0.00 B/s   10.86 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   3179 be/3 root       50.68 K/s    3.62 K/s ?unavailable?  auditd
+   2273 be/4 kali      405.42 K/s    0.00 B/s ?unavailable?  gsd-sharing
+Total DISK READ:         3.59 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.59 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  33697 be/4 root        3.59 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.58 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.58 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  33697 be/4 root        3.58 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.62 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      10.87 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  33697 be/4 root        3.62 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.58 K/s | Total DISK WRITE:       103.80 K/s
+Current DISK READ:       3.58 K/s | Current DISK WRITE:     246.96 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   68.00 K/s ?unavailable?  [jbd2/sda1-8]
+   5423 be/4 kali        0.00 B/s   28.63 K/s ?unavailable?  firefox-esr [LS Thread]
+   4454 be/4 kali        0.00 B/s    7.16 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  33697 be/4 root        3.58 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.68 K/s | Total DISK WRITE:        33.10 K/s
+Current DISK READ:       3.68 K/s | Current DISK WRITE:       3.68 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4468 be/4 kali        0.00 B/s   33.10 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #1]
+  33697 be/4 root        3.68 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         7.40 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       7.40 K/s | Current DISK WRITE:     125.76 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  33697 be/4 root        7.40 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.72 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.72 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  33697 be/4 root        3.72 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       7.70 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         3.59 K/s | Total DISK WRITE:        43.05 K/s
+Current DISK READ:       3.59 K/s | Current DISK WRITE:      89.69 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   43.05 K/s ?unavailable?  [jbd2/sda1-8]
+  36473 be/4 root        3.59 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:        35.56 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      39.11 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   3088 be/4 kali       32.00 K/s    0.00 B/s ?unavailable?  zsh
+  36473 be/4 root        3.56 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:        11.56 K/s | Total DISK WRITE:        57.80 K/s
+Current DISK READ:      11.56 K/s | Current DISK WRITE:     165.69 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   34.68 K/s ?unavailable?  [jbd2/sda1-8]
+   4454 be/4 kali        3.85 K/s   23.12 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  38732 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  bash ./File_monitoring.sh 54.82.111.250
+  42091 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.85 K/s | Total DISK WRITE:        19.23 K/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   15.39 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  42091 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        80.00 K/s
+Current DISK READ:      53.33 K/s | Current DISK WRITE:     129.53 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    453 be/4 root        0.00 B/s   45.72 K/s ?unavailable?  systemd-journald
+   4454 be/4 kali        0.00 B/s   15.24 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+    395 be/3 root        0.00 B/s    7.62 K/s ?unavailable?  [jbd2/sda1-8]
+  38779 be/3 root        0.00 B/s    7.62 K/s ?unavailable?  auditd
+  39981 be/4 root        0.00 B/s    3.81 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         3.75 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.75 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  50350 be/4 root        3.75 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  50350 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.89 K/s | Total DISK WRITE:        46.64 K/s
+Current DISK READ:      58.30 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    453 be/4 root        0.00 B/s   23.32 K/s ?unavailable?  systemd-journald
+   4454 be/4 kali        0.00 B/s   23.32 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  50350 be/4 root        3.89 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:        42.14 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      42.14 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  50350 be/4 root        3.83 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+  53323 be/4 root       38.31 K/s    0.00 B/s ?unavailable?  sar -bdqp 1
+Total DISK READ:       633.71 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:     633.71 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   2043 be/4 kali      630.01 K/s    0.00 B/s ?unavailable?  gnome-shell
+  50350 be/4 root        3.71 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.69 K/s | Total DISK WRITE:        14.75 K/s
+Current DISK READ:       3.69 K/s | Current DISK WRITE:     103.25 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   14.75 K/s ?unavailable?  [jbd2/sda1-8]
+  50350 be/4 root        3.69 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.73 K/s | Total DISK WRITE:        33.53 K/s
+Current DISK READ:       3.73 K/s | Current DISK WRITE:     152.76 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  38639 be/4 kali        0.00 B/s   33.53 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #5]
+  50350 be/4 root        3.73 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.57 K/s | Total DISK WRITE:        21.39 K/s
+Current DISK READ:       3.57 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   21.39 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  50350 be/4 root        3.57 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       7.75 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         3.87 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.87 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  57192 be/4 root        3.87 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:     100.11 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    3.85 K/s ?unavailable?  [jbd2/sda1-8]
+  57192 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:        77.25 K/s | Total DISK WRITE:        88.84 K/s
+Current DISK READ:      77.25 K/s | Current DISK WRITE:     463.51 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali       73.39 K/s   88.84 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  57192 be/4 root        3.86 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         7.72 K/s | Total DISK WRITE:        96.45 K/s
+Current DISK READ:       7.72 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s   73.30 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4454 be/4 kali        0.00 B/s   23.15 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  57192 be/4 root        7.72 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:        34.34 K/s | Total DISK WRITE:        45.79 K/s
+Current DISK READ:      34.34 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali       30.53 K/s   30.53 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s   15.26 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  57192 be/4 root        3.82 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.87 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.87 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  57192 be/4 root        3.87 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.80 K/s | Total DISK WRITE:        30.41 K/s
+Current DISK READ:       3.80 K/s | Current DISK WRITE:     114.05 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   30.41 K/s ?unavailable?  [jbd2/sda1-8]
+  57192 be/4 root        3.80 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.83 K/s | Current DISK WRITE:     134.19 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         7.64 K/s | Total DISK WRITE:        38.20 K/s
+Current DISK READ:       7.64 K/s | Current DISK WRITE:     103.13 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   5423 be/4 kali        7.64 K/s   30.56 K/s ?unavailable?  firefox-esr [LS Thread]
+    395 be/3 root        0.00 B/s    7.64 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:       125.12 K/s | Total DISK WRITE:        34.12 K/s
+Current DISK READ:     125.12 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        3.79 K/s   30.33 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.79 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   8596 be/4 kali      121.33 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 8 -isForBrowser -prefsLen 28999 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {09c8a30c-8252-4680-b735-823bba7932c2} 4331 true tab
+Total DISK READ:        23.08 K/s | Total DISK WRITE:        15.39 K/s
+Current DISK READ:      23.08 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   11.54 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   2236 be/4 kali       23.08 K/s    0.00 B/s ?unavailable?  gsd-housekeeping
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.78 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     447.48 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    7.78 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        93.20 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     155.33 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   93.20 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.79 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      49.29 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.79 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        58.52 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      65.84 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   58.52 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:        89.30 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      89.30 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   2246 be/4 kali       89.30 K/s    0.00 B/s ?unavailable?  gsd-power
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        34.59 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  38639 be/4 kali        0.00 B/s   34.59 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #5]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      42.35 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.84 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.84 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:        15.39 K/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:      15.39 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   2228 be/4 kali       15.39 K/s    0.00 B/s ?unavailable?  gsd-color
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        31.10 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      77.76 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   31.10 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:        99.46 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      99.46 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   2313 be/4 kali       99.46 K/s    0.00 B/s ?unavailable?  python3 /usr/bin/blueman-applet
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.90 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      31.24 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.90 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         7.79 K/s | Total DISK WRITE:        38.97 K/s
+Current DISK READ:       7.79 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        7.79 K/s   35.08 K/s ?unavailable?  firefox-esr [mozStorage #7]
+  39981 be/4 root        0.00 B/s    3.90 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         7.71 K/s | Total DISK WRITE:       100.19 K/s
+Current DISK READ:       7.71 K/s | Current DISK WRITE:      65.51 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   53.95 K/s ?unavailable?  [jbd2/sda1-8]
+   8555 be/4 kali        3.85 K/s   30.83 K/s ?unavailable?  firefox-esr [mozStorage #7]
+  39981 be/4 root        0.00 B/s   15.41 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  39955 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  tshark -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -T fields -e frame.number -e frame.time -e ip.src -e ip.dst -e tcp.srcport -e tcp.dstport -e udp.srcport -e udp.dstport -e frame.len -e frame.protocols -E header y -E separator ,
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        34.06 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   30.28 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.78 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.39 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   11.54 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         3.86 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       3.86 K/s | Current DISK WRITE:     158.33 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.86 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4535 be/4 kali        3.86 K/s    0.00 B/s ?unavailable?  firefox-esr [CanvasRenderer]
+Total DISK READ:        11.58 K/s | Total DISK WRITE:       127.39 K/s
+Current DISK READ:      11.58 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali       11.58 K/s  127.39 K/s ?unavailable?  firefox-esr [mozStorage #7]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        77.58 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      85.33 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   77.58 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:       133.23 K/s | Total DISK WRITE:         3.81 K/s
+Current DISK READ:     133.23 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.81 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   5780 be/4 kali      133.23 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 4 -isForBrowser -prefsLen 28758 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {2840a1aa-3789-416a-8977-48150cdb37cd} 4331 true tab
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      73.48 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.90 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     128.72 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.90 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        33.93 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  38639 be/4 kali        0.00 B/s   33.93 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #5]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        40.44 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      47.79 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   40.44 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      77.31 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.86 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        14.97 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      22.45 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   14.97 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.41 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   11.56 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         3.84 K/s | Total DISK WRITE:        38.38 K/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:      11.51 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        3.84 K/s   30.71 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    7.68 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.88 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.88 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       234.81 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     159.06 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    453 be/4 root        0.00 B/s  128.77 K/s ?unavailable?  systemd-journald
+    395 be/3 root        0.00 B/s   98.47 K/s ?unavailable?  [jbd2/sda1-8]
+  38779 be/3 root        0.00 B/s    7.57 K/s ?unavailable?  auditd
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.69 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     180.80 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        49.59 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      61.04 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   49.59 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.75 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.77 K/s
+Current DISK READ:       3.89 K/s | Current DISK WRITE:      73.84 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    3.89 K/s ?unavailable?  [jbd2/sda1-8]
+  39981 be/4 root        0.00 B/s    3.89 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         3.83 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.83 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  79673 be/4 root        3.83 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.90 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.90 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  79673 be/4 root        3.90 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.86 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.86 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  79673 be/4 root        3.86 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.84 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  79673 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.83 K/s | Total DISK WRITE:        15.32 K/s
+Current DISK READ:       3.83 K/s | Current DISK WRITE:      34.46 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   15.32 K/s ?unavailable?  [jbd2/sda1-8]
+  79673 be/4 root        3.83 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.84 K/s | Total DISK WRITE:        34.59 K/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   30.74 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.84 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  79673 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:        81.45 K/s | Total DISK WRITE:       283.13 K/s
+Current DISK READ:      81.45 K/s | Current DISK WRITE:     290.88 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  38639 be/4 kali        3.88 K/s  139.62 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #5]
+    395 be/3 root        0.00 B/s  120.23 K/s ?unavailable?  [jbd2/sda1-8]
+  38472 be/4 kali        3.88 K/s   15.51 K/s ?unavailable?  firefox-esr [Backgro~ool #20]
+  39981 be/4 root        0.00 B/s    7.76 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+   4693 be/4 kali       65.93 K/s    0.00 B/s ?unavailable?  firefox-esr -contentproc -childID 1 -isForBrowser -prefsLen 26889 -prefMapSize 235472 -jsInitLen 240908 -parentBuildID 20230724124053 -appDir /usr/lib/firefox-esr/browser {8fd6bbac-40d6-4e6d-8e56-6505494d0a32} 4331 true tab
+  39955 be/4 root        3.88 K/s    0.00 B/s ?unavailable?  tshark -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -T fields -e frame.number -e frame.time -e ip.src -e ip.dst -e tcp.srcport -e tcp.dstport -e udp.srcport -e udp.dstport -e frame.len -e frame.protocols -E header y -E separator ,
+  79673 be/4 root        3.88 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         7.66 K/s | Total DISK WRITE:        11.49 K/s
+Current DISK READ:       7.66 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        3.83 K/s   11.49 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  79673 be/4 root        3.83 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:      11.56 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         7.68 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:      15.37 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39955 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  tshark -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -T fields -e frame.number -e frame.time -e ip.src -e ip.dst -e tcp.srcport -e tcp.dstport -e udp.srcport -e udp.dstport -e frame.len -e frame.protocols -E header y -E separator ,
+  81077 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.87 K/s | Total DISK WRITE:       228.38 K/s
+Current DISK READ:       3.87 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s  224.51 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.87 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  81077 be/4 root        3.87 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         7.72 K/s | Total DISK WRITE:        23.16 K/s
+Current DISK READ:       7.72 K/s | Current DISK WRITE:      96.52 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   23.16 K/s ?unavailable?  [jbd2/sda1-8]
+  81077 be/4 root        7.72 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.89 K/s | Total DISK WRITE:        35.01 K/s
+Current DISK READ:       3.89 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  38639 be/4 kali        0.00 B/s   35.01 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #5]
+  81077 be/4 root        3.89 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.90 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.90 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  81077 be/4 root        3.90 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.90 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.90 K/s | Current DISK WRITE:       3.90 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  81077 be/4 root        3.90 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.84 K/s | Total DISK WRITE:         7.67 K/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    7.67 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  81077 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.78 K/s
+Current DISK READ:       7.78 K/s | Current DISK WRITE:      42.82 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    7.78 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         3.84 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:       7.68 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  83462 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.84 K/s | Total DISK WRITE:         3.84 K/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.84 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  83462 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  83462 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.86 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       3.86 K/s | Current DISK WRITE:      15.44 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.86 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  83462 be/4 root        3.86 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.84 K/s | Total DISK WRITE:        15.36 K/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:      53.76 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    7.68 K/s ?unavailable?  [jbd2/sda1-8]
+  39981 be/4 root        0.00 B/s    7.68 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  83462 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.81 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.81 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  83462 be/4 root        3.81 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.81 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.81 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  83462 be/4 root        3.81 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.84 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  83462 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        54.08 K/s
+Current DISK READ:       3.86 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        0.00 B/s   34.77 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4454 be/4 kali        0.00 B/s   15.45 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.86 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        30.75 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      88.40 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   23.06 K/s ?unavailable?  [jbd2/sda1-8]
+  39981 be/4 root        0.00 B/s    7.69 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:        11.61 K/s | Total DISK WRITE:       209.04 K/s
+Current DISK READ:      11.61 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali       11.61 K/s  189.68 K/s ?unavailable?  firefox-esr [mozStorage #7]
+   4454 be/4 kali        0.00 B/s   15.48 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.87 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.78 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      89.43 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    7.78 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     201.71 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      11.56 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    3.85 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.89 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      38.82 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.77 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    7.77 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        23.21 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     297.91 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   23.21 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.88 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.75 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.88 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        30.72 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   30.72 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.84 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.84 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         3.86 K/s | Total DISK WRITE:        85.00 K/s
+Current DISK READ:       3.86 K/s | Current DISK WRITE:     459.75 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   69.54 K/s ?unavailable?  [jbd2/sda1-8]
+   4454 be/4 kali        3.86 K/s   11.59 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.86 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      11.55 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        61.88 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      69.62 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   61.88 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        34.56 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.84 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  38639 be/4 kali        0.00 B/s   34.56 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #5]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      41.91 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         3.78 K/s | Total DISK WRITE:        64.24 K/s
+Current DISK READ:       3.78 K/s | Current DISK WRITE:      15.12 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        3.78 K/s   34.01 K/s ?unavailable?  firefox-esr [mozStorage #7]
+  39981 be/4 root        0.00 B/s   18.89 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+    395 be/3 root        0.00 B/s   11.34 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        23.21 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      30.95 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   11.60 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    7.74 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+    395 be/3 root        0.00 B/s    3.87 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.86 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.84 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.84 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        34.54 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      80.60 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   34.54 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.87 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      19.36 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.87 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.89 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.89 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.84 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.84 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      54.37 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.77 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.82 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.82 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      19.26 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:     107.71 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         3.89 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.89 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  97820 be/4 root        3.89 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:        11.51 K/s | Total DISK WRITE:       122.79 K/s
+Current DISK READ:      11.51 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        7.67 K/s  122.79 K/s ?unavailable?  firefox-esr [mozStorage #7]
+  97820 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.90 K/s | Total DISK WRITE:        35.14 K/s
+Current DISK READ:       3.90 K/s | Current DISK WRITE:      42.95 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   35.14 K/s ?unavailable?  [jbd2/sda1-8]
+  97820 be/4 root        3.90 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         7.34 K/s | Total DISK WRITE:        62.43 K/s
+Current DISK READ:       7.34 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        3.67 K/s   29.38 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+   8555 be/4 kali        0.00 B/s   29.38 K/s ?unavailable?  firefox-esr [mozStorage #7]
+  39981 be/4 root        0.00 B/s    3.67 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  97820 be/4 root        3.67 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.89 K/s | Total DISK WRITE:         3.89 K/s
+Current DISK READ:       3.89 K/s | Current DISK WRITE:      46.65 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.89 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  97820 be/4 root        3.89 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.85 K/s | Total DISK WRITE:        15.42 K/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   11.56 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.85 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  97820 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         7.57 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       7.57 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  97820 be/4 root        7.57 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        38.84 K/s
+Current DISK READ:       7.77 K/s | Current DISK WRITE:     104.87 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   38.84 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         3.90 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.90 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 100300 be/4 root        3.90 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:     188.64 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 100300 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.88 K/s | Total DISK WRITE:         7.76 K/s
+Current DISK READ:       3.88 K/s | Current DISK WRITE:       3.88 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    7.76 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+ 100300 be/4 root        3.88 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.81 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.81 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 100300 be/4 root        3.81 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.84 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 100300 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.86 K/s | Total DISK WRITE:        23.14 K/s
+Current DISK READ:       3.86 K/s | Current DISK WRITE:      46.28 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   23.14 K/s ?unavailable?  [jbd2/sda1-8]
+ 100300 be/4 root        3.86 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.89 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.89 K/s | Current DISK WRITE:      11.68 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 100300 be/4 root        3.89 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.88 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.88 K/s | Current DISK WRITE:       7.76 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 100300 be/4 root        3.88 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       7.72 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         3.88 K/s | Total DISK WRITE:         3.88 K/s
+Current DISK READ:       3.88 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.88 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+ 101583 be/4 root        3.88 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.89 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.89 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 101583 be/4 root        3.89 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.90 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.90 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 101583 be/4 root        3.90 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.84 K/s | Total DISK WRITE:         3.84 K/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:      30.73 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    3.84 K/s ?unavailable?  [jbd2/sda1-8]
+ 101583 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 101583 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.84 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:       3.84 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 101583 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.83 K/s | Total DISK WRITE:        19.16 K/s
+Current DISK READ:       3.83 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4454 be/4 kali        0.00 B/s   11.50 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    7.67 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+ 101583 be/4 root        3.83 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 101583 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        19.10 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      76.42 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   19.10 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.84 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.84 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      54.07 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    3.86 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     150.72 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.83 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.88 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.88 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        11.62 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      34.86 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   11.62 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.90 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.80 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.90 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        76.77 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      53.74 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   42.22 K/s ?unavailable?  [jbd2/sda1-8]
+   4454 be/4 kali        0.00 B/s   30.71 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    3.84 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        15.56 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      66.15 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   15.56 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.75 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      11.26 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.75 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       135.74 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      31.03 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        0.00 B/s  127.99 K/s ?unavailable?  firefox-esr [mozStorage #7]
+    395 be/3 root        0.00 B/s    7.76 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.84 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.84 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.83 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      15.32 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    3.83 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      85.56 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         3.87 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    3.87 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      27.03 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       3.84 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        19.19 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      26.87 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   19.19 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.87 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         3.86 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.86 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 109578 be/4 root        3.86 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 109578 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 109578 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         7.73 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       7.73 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 109578 be/4 root        7.73 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.76 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.76 K/s | Current DISK WRITE:     124.20 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 109578 be/4 root        3.76 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 109578 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         3.83 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.83 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 109578 be/4 root        3.83 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       7.69 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         3.82 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.82 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 110619 be/4 root        3.82 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.83 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.83 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 110619 be/4 root        3.83 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.80 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.80 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 110619 be/4 root        3.80 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.84 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.84 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 110619 be/4 root        3.84 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 110619 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.86 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.86 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 110619 be/4 root        3.86 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 110619 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 110619 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda1
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.69 K/s
+Current DISK READ:       7.69 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+  39981 be/4 root        0.00 B/s    7.69 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+Total DISK READ:         3.86 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.86 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 111798 be/4 root        3.86 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.89 K/s | Total DISK WRITE:        15.56 K/s
+Current DISK READ:       3.89 K/s | Current DISK WRITE:      38.89 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   15.56 K/s ?unavailable?  [jbd2/sda1-8]
+ 111798 be/4 root        3.89 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.88 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.88 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 111798 be/4 root        3.88 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:        46.52 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      46.52 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4537 be/4 kali       42.64 K/s    0.00 B/s ?unavailable?  firefox-esr [WRWorker#0]
+ 111798 be/4 root        3.88 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:        11.58 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      11.58 K/s | Current DISK WRITE:       7.72 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   4331 be/4 kali        7.72 K/s    0.00 B/s ?unavailable?  firefox-esr
+ 111798 be/4 root        3.86 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         5.13 M/s | Total DISK WRITE:       143.13 K/s
+Current DISK READ:       5.13 M/s | Current DISK WRITE:      92.84 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   54.16 K/s ?unavailable?  [jbd2/sda1-8]
+   8555 be/4 kali        0.00 B/s   34.82 K/s ?unavailable?  firefox-esr [mozStorage #7]
+  38639 be/4 kali        0.00 B/s   34.82 K/s ?unavailable?  firefox-esr [BgIOThr~Pool #5]
+   4454 be/4 kali        0.00 B/s    7.74 K/s ?unavailable?  firefox-esr [Cache2 I/O]
+  39981 be/4 root        0.00 B/s    7.74 K/s ?unavailable?  dumpcap -n -i eth0 -f not (port 8880 or port 8881 or port 8882 or port 8883 or port 8884 or port 8885 or port 8886 or port 8887 or port 8888 or port 8889 or port 8890) -Z none
+  38472 be/4 kali        0.00 B/s    3.87 K/s ?unavailable?  firefox-esr [Backgro~ool #20]
+   2043 be/4 kali      143.13 K/s    0.00 B/s ?unavailable?  gnome-shell
+   2086 be/4 kali       27.08 K/s    0.00 B/s ?unavailable?  gnome-shell [JS Helper]
+   2222 be/4 kali        3.87 K/s    0.00 B/s ?unavailable?  ibus-daemon --panel disable --xim
+   2287 be/4 kali      162.47 K/s    0.00 B/s ?unavailable?  ibus-extension-gtk3
+   2609 be/4 kali       54.16 K/s    0.00 B/s ?unavailable?  ibus-engine-simple
+   2895 be/4 kali      108.31 K/s    0.00 B/s ?unavailable?  nautilus --gapplication-service
+   3061 be/4 kali        4.64 M/s    0.00 B/s ?unavailable?  gnome-terminal-server
+ 111798 be/4 root        3.87 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.72 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.72 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 111798 be/4 root        3.72 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         3.85 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       3.85 K/s | Current DISK WRITE:      57.81 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+ 111798 be/4 root        3.85 K/s    0.00 B/s ?unavailable?  ioping -c 10 /dev/sda5
+Total DISK READ:         0.00 B/s | Total DISK WRITE:       334.80 K/s
+Current DISK READ:     758.12 K/s | Current DISK WRITE:      73.12 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    453 be/4 root        0.00 B/s  280.93 K/s ?unavailable?  systemd-journald
+    395 be/3 root        0.00 B/s   46.18 K/s ?unavailable?  [jbd2/sda1-8]
+  38779 be/3 root        0.00 B/s    7.70 K/s ?unavailable?  auditd
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:        26.92 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      26.92 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   3088 be/4 kali       26.92 K/s    0.00 B/s ?unavailable?  zsh
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        23.45 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     340.06 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s   23.45 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:        65.17 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      65.17 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   3088 be/4 kali       65.17 K/s    0.00 B/s ?unavailable?  zsh
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        38.73 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      27.11 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   8555 be/4 kali        0.00 B/s   30.98 K/s ?unavailable?  firefox-esr [mozStorage #7]
+    395 be/3 root        0.00 B/s    7.75 K/s ?unavailable?  [jbd2/sda1-8]
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:        23.38 K/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:      23.38 K/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   3088 be/4 kali       23.38 K/s    0.00 B/s ?unavailable?  zsh
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         0.00 B/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         3.86 K/s | Total DISK WRITE:         7.71 K/s
+Current DISK READ:       3.86 K/s | Current DISK WRITE:      19.29 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+    395 be/3 root        0.00 B/s    7.71 K/s ?unavailable?  [jbd2/sda1-8]
+   3088 be/4 kali        3.86 K/s    0.00 B/s ?unavailable?  zsh

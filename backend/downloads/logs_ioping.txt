@@ -1,0 +1,249 @@
+4 KiB <<< /dev/sda (block device 80 GiB): request=1 time=472.9 us (warmup)
+4 KiB <<< /dev/sda (block device 80 GiB): request=2 time=937.7 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=3 time=1.31 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=4 time=875.5 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=5 time=762.1 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=6 time=750.3 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=7 time=735.1 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=8 time=1.23 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=9 time=613.3 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=10 time=607.5 us
+
+--- /dev/sda (block device 80 GiB) ioping statistics ---
+9 requests completed in 7.82 ms, 36 KiB read, 1.15 k iops, 4.49 MiB/s
+generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 607.5 us / 869.3 us / 1.31 ms / 237.6 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=1 time=690.9 us (warmup)
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=2 time=489.0 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=3 time=463.1 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=4 time=933.8 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=5 time=532.6 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=6 time=878.2 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=7 time=757.7 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=8 time=1.20 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=9 time=659.7 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=10 time=1.08 ms
+
+--- /dev/sda1 (block device 79.0 GiB) ioping statistics ---
+9 requests completed in 7.00 ms, 36 KiB read, 1.29 k iops, 5.03 MiB/s
+generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 463.1 us / 777.2 us / 1.20 ms / 249.8 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=1 time=942.1 us (warmup)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=2 time=777.8 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=3 time=932.3 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=4 time=1.25 ms
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=5 time=1.29 ms
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=6 time=1.01 ms
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=7 time=641.7 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=8 time=1.50 ms
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=9 time=535.3 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=10 time=1.01 ms
+
+--- /dev/sda5 (block device 975 MiB) ioping statistics ---
+9 requests completed in 8.94 ms, 36 KiB read, 1.01 k iops, 3.93 MiB/s
+generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 535.3 us / 993.5 us / 1.50 ms / 297.6 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=1 time=227.8 us (warmup)
+
+--- /dev/sda (block device 80 GiB) ioping statistics ---
+0 requests completed in 0 ns, 0 B read, 0 iops, 0 B/s
+generated 1 requests in 976.1 ms, 4 KiB, 1 iops, 4.10 KiB/s
+min/avg/max/mdev = 0 ns / 0 ns / 0 ns / 0 ns
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=1 time=12.0 ms (warmup)
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=2 time=12.1 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=3 time=1.57 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=4 time=666.8 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=5 time=12.4 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=6 time=11.3 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=7 time=12.3 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=8 time=11.5 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=9 time=1.02 ms (fast)
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=10 time=1.25 ms (fast)
+
+--- /dev/sda1 (block device 79.0 GiB) ioping statistics ---
+9 requests completed in 64.1 ms, 36 KiB read, 140 iops, 561.5 KiB/s
+generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 666.8 us / 7.12 ms / 12.4 ms / 5.38 ms
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=1 time=2.20 ms (warmup)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=2 time=482.6 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=3 time=337.2 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=1 time=902.5 us (warmup)
+4 KiB <<< /dev/sda (block device 80 GiB): request=2 time=692.3 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=3 time=1.31 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=4 time=1.04 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=5 time=1.71 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=6 time=1.86 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=7 time=2.81 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=8 time=472.9 us (fast)
+4 KiB <<< /dev/sda (block device 80 GiB): request=9 time=743.6 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=10 time=999.4 us
+
+--- /dev/sda (block device 80 GiB) ioping statistics ---
+9 requests completed in 11.7 ms, 36 KiB read, 772 iops, 3.02 MiB/s
+generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 472.9 us / 1.29 ms / 2.81 ms / 690.6 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=1 time=910.1 us (warmup)
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=2 time=1.63 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=3 time=1.64 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=4 time=1.55 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=5 time=986.0 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=6 time=3.91 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=7 time=2.06 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=8 time=1.88 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=9 time=13.6 ms (slow)
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=10 time=790.5 us (fast)
+
+--- /dev/sda1 (block device 79.0 GiB) ioping statistics ---
+9 requests completed in 28.1 ms, 36 KiB read, 320 iops, 1.25 MiB/s
+generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 790.5 us / 3.12 ms / 13.6 ms / 3.80 ms
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=1 time=197.7 us (warmup)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=2 time=260.1 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=3 time=1.87 ms
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=4 time=253.7 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=5 time=677.6 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=6 time=1.62 ms
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=7 time=308.1 us (fast)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=8 time=218.8 us (fast)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=9 time=178.9 us (fast)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=10 time=164.3 us (fast)
+
+--- /dev/sda5 (block device 975 MiB) ioping statistics ---
+9 requests completed in 5.55 ms, 36 KiB read, 1.62 k iops, 6.34 MiB/s
+generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 164.3 us / 616.5 us / 1.87 ms / 622.2 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=1 time=1.68 ms (warmup)
+4 KiB <<< /dev/sda (block device 80 GiB): request=2 time=1.41 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=3 time=1.66 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=4 time=791.0 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=5 time=1.52 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=6 time=1.08 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=7 time=968.4 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=8 time=215.6 us (fast)
+4 KiB <<< /dev/sda (block device 80 GiB): request=9 time=993.2 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=10 time=1.46 ms
+
+--- /dev/sda (block device 80 GiB) ioping statistics ---
+9 requests completed in 10.1 ms, 36 KiB read, 891 iops, 3.48 MiB/s
+generated 10 requests in 9.01 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 215.6 us / 1.12 ms / 1.66 ms / 424.0 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=1 time=732.9 us (warmup)
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=2 time=964.0 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=3 time=914.0 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=4 time=1.41 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=5 time=213.5 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=6 time=1.79 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=7 time=2.02 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=8 time=1.01 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=9 time=1.73 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=10 time=2.71 ms
+
+--- /dev/sda1 (block device 79.0 GiB) ioping statistics ---
+9 requests completed in 12.8 ms, 36 KiB read, 704 iops, 2.75 MiB/s
+generated 10 requests in 9.02 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 213.5 us / 1.42 ms / 2.71 ms / 696.3 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=1 time=340.0 us (warmup)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=2 time=1.61 ms
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=3 time=239.2 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=4 time=277.6 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=5 time=349.2 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=6 time=359.7 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=7 time=184.6 us (fast)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=8 time=196.7 us (fast)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=9 time=264.0 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=10 time=288.2 us
+
+--- /dev/sda5 (block device 975 MiB) ioping statistics ---
+9 requests completed in 3.77 ms, 36 KiB read, 2.39 k iops, 9.33 MiB/s
+generated 10 requests in 9.01 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 184.6 us / 418.7 us / 1.61 ms / 424.6 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=1 time=1.52 ms (warmup)
+4 KiB <<< /dev/sda (block device 80 GiB): request=2 time=1.64 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=3 time=768.1 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=4 time=1.67 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=5 time=1.03 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=6 time=1.76 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=7 time=551.8 us (fast)
+4 KiB <<< /dev/sda (block device 80 GiB): request=8 time=1.40 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=9 time=1.01 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=10 time=1.61 ms
+
+--- /dev/sda (block device 80 GiB) ioping statistics ---
+9 requests completed in 11.4 ms, 36 KiB read, 787 iops, 3.08 MiB/s
+generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 551.8 us / 1.27 ms / 1.76 ms / 416.3 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=1 time=882.2 us (warmup)
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=2 time=1.25 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=3 time=1.88 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=4 time=1.15 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=5 time=2.41 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=6 time=726.6 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=7 time=1.54 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=8 time=321.9 us (fast)
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=9 time=1.48 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=10 time=1.69 ms
+
+--- /dev/sda1 (block device 79.0 GiB) ioping statistics ---
+9 requests completed in 12.5 ms, 36 KiB read, 722 iops, 2.82 MiB/s
+generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 321.9 us / 1.38 ms / 2.41 ms / 583.4 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=1 time=221.8 us (warmup)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=2 time=185.5 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=3 time=140.9 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=4 time=310.9 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=5 time=181.8 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=6 time=203.9 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=7 time=285.3 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=8 time=2.35 ms (slow)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=9 time=246.7 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=10 time=171.9 us (fast)
+
+--- /dev/sda5 (block device 975 MiB) ioping statistics ---
+9 requests completed in 4.08 ms, 36 KiB read, 2.21 k iops, 8.62 MiB/s
+generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 140.9 us / 452.9 us / 2.35 ms / 672.6 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=1 time=907.6 us (warmup)
+4 KiB <<< /dev/sda (block device 80 GiB): request=2 time=1.64 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=3 time=1.45 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=4 time=1.82 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=5 time=724.4 us
+4 KiB <<< /dev/sda (block device 80 GiB): request=6 time=2.55 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=7 time=1.49 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=8 time=1.67 ms
+4 KiB <<< /dev/sda (block device 80 GiB): request=9 time=362.1 us (fast)
+4 KiB <<< /dev/sda (block device 80 GiB): request=10 time=960.1 us
+
+--- /dev/sda (block device 80 GiB) ioping statistics ---
+9 requests completed in 12.7 ms, 36 KiB read, 710 iops, 2.78 MiB/s
+generated 10 requests in 9.02 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 362.1 us / 1.41 ms / 2.55 ms / 612.0 us
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=1 time=723.0 us (warmup)
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=2 time=1.16 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=3 time=5.46 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=4 time=1.39 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=5 time=1.73 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=6 time=1.32 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=7 time=809.7 us (fast)
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=8 time=310.0 us (fast)
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=9 time=1.48 ms
+4 KiB <<< /dev/sda1 (block device 79.0 GiB): request=10 time=1.72 ms
+
+--- /dev/sda1 (block device 79.0 GiB) ioping statistics ---
+9 requests completed in 15.4 ms, 36 KiB read, 584 iops, 2.28 MiB/s
+generated 10 requests in 9.01 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 310.0 us / 1.71 ms / 5.46 ms / 1.39 ms
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=1 time=329.9 us (warmup)
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=2 time=409.9 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=3 time=152.4 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=4 time=211.6 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=5 time=194.8 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=6 time=1.13 ms
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=7 time=508.1 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=8 time=263.3 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=9 time=353.6 us
+4 KiB <<< /dev/sda5 (block device 975 MiB): request=10 time=271.4 us
+
+--- /dev/sda5 (block device 975 MiB) ioping statistics ---
+9 requests completed in 3.50 ms, 36 KiB read, 2.57 k iops, 10.0 MiB/s
+generated 10 requests in 9.00 s, 40 KiB, 1 iops, 4.44 KiB/s
+min/avg/max/mdev = 152.4 us / 388.8 us / 1.13 ms / 283.8 us
